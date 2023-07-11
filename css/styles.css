@@ -1,0 +1,35 @@
+/* GLOBAL STYLES */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: "Arial", "Helvetica", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER */
+
+.page-header {
+    padding: 10px 0;
+    background-color: #eeeeee;
+}
+
+.main-nav {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.nav-link {
+    color: #000000;
+    text-decoration: none;
+}
